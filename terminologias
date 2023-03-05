@@ -1,0 +1,6 @@
+Terminologias:
+
+Payload / shellcode - é a parte do exploite que tem o codigo malicioso
+Zero day - Falha descoberta antes de existir um pacht para a vulnerabilidade
+RCE - Remote code Execution , falha que permite execução de código remoto
+DoS - Ataque de negação de serviço ( Denial of Service )
